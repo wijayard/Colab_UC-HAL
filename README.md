@@ -7,6 +7,7 @@ You can take this one step further by adding files or folders if you wish.
 
 ## Postdocs, Researchers, Technicians
 Postdosc stick together!
+Edits from Others
 
 ## Graduate students
 "Writing a paper is easier than accessing healthcare" - Dayal W.
