@@ -6,7 +6,7 @@ Colaborative working example for UC-HAL PD meeting
 You can take this one step further by adding files or folders if you wish.
 
 ## Postdocs, Researchers, Technicians
-
+Postdosc stick together!
 
 ## Graduate students
 
