@@ -9,7 +9,7 @@ You can take this one step further by adding files or folders if you wish.
 Postdosc stick together!
 
 ## Graduate students
-
+"Writing a paper is easier than accessing healthcare" - Dayal W.
 
 ## Undergrade students
 
